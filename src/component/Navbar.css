@@ -1,0 +1,42 @@
+.navigation-menu{
+    height: 7.5vh;
+    display:flex;
+    justify-content: space-between;
+    background: linear-gradient(180deg, #4DC03A 0%, #26878D 100%);
+    align-items: center;
+}
+
+.all-menu-items{
+    display:flex;
+    list-style-type: none;
+    align-items: center;
+ 
+}
+.menu-descr{
+    letter-spacing: 0.05px;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 14px;
+    color: #ffffff;
+    padding: 20px;
+
+}
+
+.logo{
+    text-decoration: none;
+    color:#ededed;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 14px;
+    color: #FFFFFF;
+    padding:15px;
+   
+}
+.navigation-icon{
+    margin-top:-20px;
+    padding-top:-50px;
+    margin-bottom: -10px;;
+}
